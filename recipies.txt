@@ -10,3 +10,4 @@ maggie
 salt
 spices
 maggie masala
+chicken fry
