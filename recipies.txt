@@ -11,3 +11,8 @@ salt
 spices
 maggie masala
 chicken fry
+
+
+
+beans
+pizza
